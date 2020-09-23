@@ -85,6 +85,31 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   width: 50%;
+  padding: 30px;
+  background-color: white;
+}
+
+.nazev {
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.produkt {
+  margin: 0;
+  padding: 10px 0;
+  color: #959595;
+}
+
+.popis {
+  margin: 0;
+  padding: 20px 0;
+}
+
+.parametr {
+  text-transform: uppercase;
+  font-size: 14px;
 }
 
 ul li {
