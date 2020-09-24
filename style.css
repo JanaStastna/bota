@@ -127,10 +127,9 @@ ul li {
 }
 
 .vybrana {
-  color: #f15f42;
   border: 2px solid #f15f42;
-  padding: 3px;
   border-radius: 50%;
+  padding: 2px;
 }
 
 .velikosti {
